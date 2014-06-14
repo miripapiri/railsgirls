@@ -18,3 +18,4 @@ footer { margin-top: 100px; }
 table, td, th { vertical-align: middle; border: none; }
 th { border-bottom: 1px solid #DDD; }
 td {border:5px solid green; background-color: yellow}
+li {font-weight: bold}
